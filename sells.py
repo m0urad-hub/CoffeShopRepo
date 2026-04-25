@@ -5,7 +5,7 @@ import os
 conn = sqlite3.connect("coffee_shop1.db")
 cursor = conn.cursor()
 import datetime 
-def insert(): # Added ()
+def insert(conn,cursor): # Added ()
     if os.path.exists("data.json"):
         with open("data.json", "r") as f:
             try:

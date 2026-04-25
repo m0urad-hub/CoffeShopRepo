@@ -5,5 +5,33 @@
         "unit": "TND",
         "category": "drink ",
         "time": "2026-04-22"
+    },
+    {
+        "name": "express",
+        "price": 2.3,
+        "unit": "TND",
+        "category": "drink",
+        "time": "2026-04-25"
+    },
+    {
+        "name": "croissante",
+        "price": 1.5,
+        "unit": "TND",
+        "category": "food",
+        "time": "2026-04-25"
+    },
+    {
+        "name": "capucian",
+        "price": 2.8,
+        "unit": "TND",
+        "category": "drink",
+        "time": "2026-04-25"
+    },
+    {
+        "name": "express",
+        "price": 2.3,
+        "unit": "TND",
+        "category": "drink",
+        "time": "2026-04-25"
     }
 ]
